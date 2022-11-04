@@ -1,0 +1,1 @@
+discord_token = 토큰ID
